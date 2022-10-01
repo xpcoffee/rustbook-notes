@@ -1,2 +1,6 @@
 # rustbook
- Exercises while going through the rust-book
+
+Quick exercises and notes while going through the rust-book.
+
+This is very unlikely to be useful for you :) 
+
